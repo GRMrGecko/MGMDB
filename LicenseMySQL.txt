@@ -1,0 +1,1 @@
+MySQL is under both the MySQL FLOSS Licenses and GNU GPL Licenses, both which can be found under the MySQL directory as COPYING and EXCEPTIONS-CLIENT.
